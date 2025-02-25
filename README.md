@@ -1,2 +1,2 @@
 # COE379L
-Repo for COE 379L Spring 2025 Class
+The following repo contains the 4 projects done by Arsh Dauwa for COE 379L Spring 2025 with Professor Stubbs.
